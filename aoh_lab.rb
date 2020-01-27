@@ -25,3 +25,8 @@ film_fest = [
   {:name=>"Andrej Tarkovsky", :favorite_movie=>"Solaris"}
 ]
 
+directors = [
+  {:name=>"Ida Lupino", :favorite_movie=>"The Hitch-Hiker"},
+  {:name=>"Orson Welles", :favorite_movie=>"Citizen Kane"},
+  {:name=>"Andrej Tarkovsky", :favorite_movie=>"Solaris"}
+]
